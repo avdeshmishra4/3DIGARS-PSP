@@ -1,0 +1,12 @@
+#!/bin/sh
+#purpose: run 3DIGARS3.0
+#author: Avdesh
+
+cd ../3DIGARS3.0/
+java ThreeDIGARSVersionThree 1k4nA_5_203_86 F > output_5_203_86.txt
+cd ./DSSP/
+rm -f 1k4nA_5_203_86.dssp
+cd ../FEATURES/
+rm -f 1k4nA_5_203_86.rsa
+cd ../ConsolidatedASA/
+rm -f 1k4nA_5_203_86.rpASA

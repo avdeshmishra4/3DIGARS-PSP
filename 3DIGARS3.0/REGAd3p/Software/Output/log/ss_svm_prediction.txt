@@ -1,0 +1,2 @@
+1k4nA
+SVM PREDICT Command: /home1/presentation/Courses/CSCI_6635_Research/Lecture/Set_5_SVM/LibSVM/libsvm-3.17/libsvm-3.17/svm-predict -b 1 ../Features/1k4nA0/1k4nA.svm.ss.scale ../Models/SS_SVM/SSD_TR1001.libsvm.scale.model ../Features/1k4nA0/1k4nA.svm.ss.predict >> ../Output/log/log_1k4nA0_svm_prediction

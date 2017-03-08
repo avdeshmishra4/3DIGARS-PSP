@@ -1,0 +1,19 @@
+
+-------------- REGAd3p Start------------------
+
+ID: 1k4nA1
+copying fasta from 3DIGARS3.0 energy function to REGAd3p/Softwares/Input/
+Length: 188
+processing Input......DONE!!!
+copying pssm from /pssmout/ to REGAd3p/Softwares/Features/
+PSSM already exists!!
+running IUPred (short & long)......DONE!!!
+generating monogram and bigram......DONE!!!
+collecting features for SS prediction......DONE!!!
+generating input for SS prediction......DONE!!!
+predicting secondary structure and processing output......DONE!!!
+collecting features for ASA prediction......DONE!!!
+generating input for ASA prediction......DONE!!!
+predicting ASA......DONE!!!
+
+-------------- REGAd3p End------------------

@@ -1,0 +1,5 @@
+/home/amishra2/Ab-Initio/Ab-Initio-Ecoli-Data-V1/Ab-Initio-NewRama-Scwrl-MultiSeed-XYZ-RunRandomZone-BetaSmoothing-MPI-1k4nA-Rosetta-V1/3DIGARS3.0/Input/pdbInput/1k4nA_3_203_258.pdb
+DSSP ran successfully
+DSSP file parse successful
+Creating ASA file required for ASA Energy
+ASA file required for ASA based energy is successfully created

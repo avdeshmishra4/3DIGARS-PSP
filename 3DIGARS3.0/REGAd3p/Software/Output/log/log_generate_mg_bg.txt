@@ -1,0 +1,5 @@
+../Features/1k4nA3/1k4nA.pssm
+../Features/1k4nA3/1k4nA.monogram
+../Features/1k4nA3/1k4nA.bigram
+SEQUENCE LENGTH: 188
+Sequence Length: 188

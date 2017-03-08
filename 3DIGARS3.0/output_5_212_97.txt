@@ -1,0 +1,12 @@
+/home/amishra2/Ab-Initio/Ab-Initio-Ecoli-Data-V1/Ab-Initio-NewRama-Scwrl-MultiSeed-XYZ-RunRandomZone-BetaSmoothing-MPI-1k4nA-Rosetta/3DIGARS3.0/Input/pdbInput/1k4nA_5_212_97.pdb
+DSSP ran successfully
+DSSP file parse successful
+Creating ASA file required for ASA Energy
+ASA file required for ASA based energy is successfully created
+3DIGARS library loaded successfully
+ASA library loaded successfully
+uPhi Library Loaded Successfully
+uPhi Library Loaded Successfully
+Generating 3DIGARS3.0 Energy
+Individual Energies -124.00935634634594	-125.64049	5.7755001086931435	-0.7137775982996859
+/home/amishra2/Ab-Initio/Ab-Initio-Ecoli-Data-V1/Ab-Initio-NewRama-Scwrl-MultiSeed-XYZ-RunRandomZone-BetaSmoothing-MPI-1k4nA-Rosetta/3DIGARS3.0/Input/pdbInput/1k4nA_5_212_97.pdb:-		-244.58812150685094
